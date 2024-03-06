@@ -1,1 +1,13 @@
-Whats up dude
+# Bat
+
+## Stats
+
+### strength
+
+### quickness
+
+## Origins
+
+## Sprites
+
+## Attack sounds
