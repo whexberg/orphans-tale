@@ -1,10 +1,10 @@
 {
-    // The name of the character 
-    "name": "Abyss",
+    // The name of the item 
+    "name": "Oberons Ravens",
     // This would be the full item description that is not viewed by player
-    "description": "An item that has come forth from Trevor's ass",
+    "description": "Destroys all items in the room and gives the player a unique raven familiar for each item destroyed. Some items generate ravens with special effects.",
     // a short in-game message that alludes to the use of the item (viewed by player)
-    "quote": "Never again shall I sit an wallow in the stench that comes from Trevor's ass",
+    "quote": "Forget the life from whence you came, and become the enemy.",
     // UUID specific to this item
     "id": "ae718cf2-dca5-4813-ab5f-7f7785f1b9a7",
     // Array of objects that describe sprites to be used for this item
@@ -17,7 +17,7 @@
     // Array of objects that describe sounds used for this item
     "sounds": [
       {
-        "name": "Abyss Attack",
+        "name": "Abyss",
         "path": "./sounds/abyss_attack.wav"
       },
       {
@@ -34,7 +34,7 @@
       }
     ],
     // A number which is used to determine dungeon difficulty
-    "quality": 5,
+    "quality": 4,
     // The category that the item is part of
     "category": "foul",
     // What item pools this item belongs too 
