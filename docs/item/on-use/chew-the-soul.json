@@ -2,7 +2,7 @@
     // The name of the character 
     "name": "Chew the Soul",
     // This would be the full item description that is not viewed by player
-    "description": "Convert two sheald health into one full Health",
+    "description": "Convert two sheald health or explosive into one full Health",
     // a short in-game message that alludes to the use of the item (viewed by player)
     "quote": "I shall consume my armor and grow",
     // UUID specific to this item

@@ -2,7 +2,8 @@
     // The name of the character 
     "name": "Agony Box",
     // This would be the full item description that is not viewed by player
-    "description": "perminantly lose any amount of health up to eight, to craft an item. The power level and number of items is based on the amount of health sacrifised.",
+    "description": "perminantly lose any amount of health up to eight, to craft an item. The power level 
+    and number of items is based on the amount of health sacrifised.",
     // a short in-game message that alludes to the use of the item (viewed by player)
     "quote": "Make your destiny",
     // UUID specific to this item
