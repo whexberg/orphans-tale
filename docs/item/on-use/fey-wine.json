@@ -1,10 +1,11 @@
 {
     // The name of the character 
-    "name": "Abyss",
+    "name": "Fey Wine",
     // This would be the full item description that is not viewed by player
-    "description": "An item that has come forth from Trevor's ass",
+    "description": "Causes player to get beligerantly drunk for 5 seconds, greatly increasing his attack speed, and damage, 
+    but reduces speed and player may difficulty controlling character. This item charges by dealing damage to enemies instead of clearing rooms.",
     // a short in-game message that alludes to the use of the item (viewed by player)
-    "quote": "Never again shall I sit an wallow in the stench that comes from Trevor's ass",
+    "quote": "I'm not as think as you drunk I am!",
     // UUID specific to this item
     "id": "ae718cf2-dca5-4813-ab5f-7f7785f1b9a7",
     // Array of objects that describe sprites to be used for this item
@@ -34,7 +35,7 @@
       }
     ],
     // A number which is used to determine dungeon difficulty
-    "quality": 5,
+    "quality": 2,
     // The category that the item is part of
     "category": "foul",
     // What item pools this item belongs too 
