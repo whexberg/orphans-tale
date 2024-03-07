@@ -1,10 +1,11 @@
 {
     // The name of the character 
-    "name": "Abyss",
+    "name": "Debt Owed",
     // This would be the full item description that is not viewed by player
-    "description": "An item that has come forth from Trevor's ass",
+    "description": "one to three items will be half price every dungeon shop keep, 
+    and can be used for one random free item",
     // a short in-game message that alludes to the use of the item (viewed by player)
-    "quote": "Never again shall I sit an wallow in the stench that comes from Trevor's ass",
+    "quote": "Fey Debts are always paid",
     // UUID specific to this item
     "id": "ae718cf2-dca5-4813-ab5f-7f7785f1b9a7",
     // Array of objects that describe sprites to be used for this item
@@ -34,7 +35,7 @@
       }
     ],
     // A number which is used to determine dungeon difficulty
-    "quality": 5,
+    "quality": 2,
     // The category that the item is part of
     "category": "foul",
     // What item pools this item belongs too 
