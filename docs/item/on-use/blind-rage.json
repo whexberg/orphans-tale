@@ -1,21 +1,10 @@
-# Orphan
-
-A super duper awesome Zelda-like clone of Binding of Isaac
-
-# How to describe an item
-
-To describe items we will use JSON.
-
-### Sample Item:
-
-```json5
 {
   // The name of the character 
-  "name": "Abyss",
+  "name": "Blind Rage",
   // This would be the full item description that is not viewed by player
-  "description": "An item that has come forth from Trevor's ass",
+  "description": "Activate items that trigger on damage but take no damage.",
   // a short in-game message that alludes to the use of the item (viewed by player)
-  "quote": "Never again shall I sit an wallow in the stench that comes from Trevor's ass",
+  "quote": "Do no evil or suffer my wrath",
   // UUID specific to this item
   "id": "ae718cf2-dca5-4813-ab5f-7f7785f1b9a7",
   // Array of objects that describe sprites to be used for this item
@@ -45,7 +34,7 @@ To describe items we will use JSON.
     }
   ],
   // A number which is used to determine dungeon difficulty
-  "quality": 5,
+  "quality": 1,
   // The category that the item is part of
   "category": "foul",
   // What item pools this item belongs too 
@@ -53,4 +42,3 @@ To describe items we will use JSON.
     "Tatianna"
   ],
 }
-```

@@ -1,0 +1,45 @@
+{
+    // The name of the character 
+    "name": "Debt Owed",
+    // This would be the full item description that is not viewed by player
+    "description": "one to three items will be half price every dungeon shop keep, 
+    and can be used for one random free item",
+    // a short in-game message that alludes to the use of the item (viewed by player)
+    "quote": "Fey Debts are always paid",
+    // UUID specific to this item
+    "id": "ae718cf2-dca5-4813-ab5f-7f7785f1b9a7",
+    // Array of objects that describe sprites to be used for this item
+    "sprite": [
+      {
+        "name": "Attack sprites",
+        "path": "./sprites/abyss_attack.png"
+      }
+    ],
+    // Array of objects that describe sounds used for this item
+    "sounds": [
+      {
+        "name": "Abyss Attack",
+        "path": "./sounds/abyss_attack.wav"
+      },
+      {
+        "name": "Abyss Destroyed",
+        "path": "./sounds/abyss_destroyed.wav"
+      }
+    ],
+    // Array of objects that describe the criteria needed to unlock an item
+    "unlock_criteria": [
+      {
+        "id": "1f0eab09-d9bc-45d2-8021-f19a2bcfacde",
+        "name": "Game Complete",
+        "description": "complete game 100%"
+      }
+    ],
+    // A number which is used to determine dungeon difficulty
+    "quality": 2,
+    // The category that the item is part of
+    "category": "foul",
+    // What item pools this item belongs too 
+    "itemPool": [
+      "Tatianna"
+    ],
+  }

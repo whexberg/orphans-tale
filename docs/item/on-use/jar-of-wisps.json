@@ -1,14 +1,3 @@
-# Orphan
-
-A super duper awesome Zelda-like clone of Binding of Isaac
-
-# How to describe an item
-
-To describe items we will use JSON.
-
-### Sample Item:
-
-```json5
 {
   // The name of the character 
   "name": "Abyss",
@@ -53,4 +42,3 @@ To describe items we will use JSON.
     "Tatianna"
   ],
 }
-```
